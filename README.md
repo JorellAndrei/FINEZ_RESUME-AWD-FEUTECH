@@ -65,13 +65,8 @@ This section listed the major foundations used to create my project. Here are my
 
 <br/>
 
-<img src="https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/2c9f63ac-8e5b-4baf-8b7e-3f7baaa20176" height="100" width="100">
-  
-![image](https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/544d4b5c-7062-415c-b7cd-2957a041d062)
-
-![image](https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/fe5074b2-5ab3-4bf8-8dc3-0ea2b80676eb)
-
-
+<img src="https://media1.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp?cid=790b76114s0bjpy3ez3m1jecedkegke4gbbd1y772pn15ib2&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="200" height="200"> <img src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp?cid=790b7611pefnmc8cabmjj8unj9y0vtk2revjghtweqajzye0&ep=v1_stickers_search&rid=giphy.webp&ct=s" height="200" width="200">
+<img src="https://miro.medium.com/v2/resize:fit:960/1*-tOldEbfjijxn9VqZeULqg.gif" height="200" width="200">
 
 ## FEATURES
 
@@ -87,86 +82,43 @@ In today's mobile-first world, it's essential for websites to be responsive and 
 4. Customizable Sections
 The website is divided into customizable sections, allowing me to highlight different aspects of my professional background and achievements. Whether it's showcasing my skills, listing my work experience, or featuring my projects, each section is carefully designed to provide valuable insights to potential employers and collaborators.
 
+</br>
+
 ### DEMO
 
-Curious to see the website in action? Check out the live demo .
+Curious to see the website in action? Check out the live demo <a href="https://jorellandrei.github.io/FINEZ_RESUME-AWD-FEUTECH/" target="_blank">here</a>.
+
+</br>
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_To run this project locally on your machine, follow these steps:_
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the Repository: Use Git to clone this repository to your local machine.
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/your-username/FINEZ_RESUME-AWD-FEUTECH.git
    ```
-3. Install NPM packages
+2. Navigate to the Directory: Change your current directory to the project directory.
    ```sh
-   npm install
+   cd FINEZ_RESUME-AWD-FEUTECH
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Feel free to use this project as a template for creating your interactive resume website. Customize the content, styles, and functionality to reflect your unique skills, experiences, and personality. Don't forget to replace the placeholder content with your own information to make it truly yours.
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+### Changing Styles
+The website's styles are defined in the styles.css file. Feel free to modify the CSS properties to customize the appearance of the website according to your preferences. You can adjust colors, fonts, layout, and more to achieve the desired look and feel.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+### Adding Content
+To add or modify content, simply edit the HTML files (index.html, about.html, projects.html, etc.) using your preferred text editor. Update the text, images, and links to reflect your personal information, work experience, projects, and other relevant details.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+### Enhancing Functionality
+If you're comfortable with JavaScript, you can enhance the website's functionality by adding new features or interactive elements. Experiment with JavaScript libraries or frameworks to add advanced functionality such as form validation, dynamic content loading, or real-time data visualization.
 
 <!-- CONTACT -->
 ## Contact
@@ -176,7 +128,6 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
