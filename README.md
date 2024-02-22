@@ -1,7 +1,7 @@
 ![RESUME_BANNER](https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/129a3172-8c2b-4d81-b99c-4fcbf3182528)
 
 <a name="readme-top"></a>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br />
 <div align="center">
 
@@ -11,6 +11,7 @@
     This repository contains the source code for my interactive resume website built with HTML, CSS, and JavaScript.
     <br />
     <br />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
   <img src="https://media.giphy.com/media/XBKgBeVjgDCJ87k4LY/giphy.gif?cid=790b76111uz88zdon8mf6zpa97yafl9o9ufezmmcr9z5d2hy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" height="280">
     
@@ -23,50 +24,53 @@
   
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <p>About The Project</p>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><p>Built With</p></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <p>Getting Started</p>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><p>Prerequisites</p></li>
+        <li><p>Installation</p></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><p>Usage</p></li>
+    <li><p>Contributing</p></li>
+    <li><p>License</p></li>
+    <li><p>Contact</p></li>
+    <li><p>Acknowledgments</p></li>
   </ol>
+  </br>
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE PROJECT
 
+<div class="about-the-project">
 <img src="https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/17001923-71d0-4e68-b7bc-b4c379cede7c" width="1200" height="300">
 
-In today's competitive job market, having a standout resume is crucial. However, a traditional paper resume may not fully capture your skills, experience, and personality. That's where an interactive online resume comes in. This project is my personal interactive resume website, designed to go beyond the limitations of a static document.
+In today's competitive job market, having a standout resume is crucial. However, a traditional paper resume may not fully capture your skills, experience, and personality. That's where an interactive online resume comes in. This project is my interactive resume website, designed to go beyond the limitations of a static document.
 
-With the power of HTML, CSS, and JavaScript, I've created a dynamic and engaging platform to showcase my professional background, skills, projects, and aspirations. This repository contains the source code for my resume website, which you can use as inspiration for creating your own online portfolio.
+With the power of HTML, CSS, and JavaScript, I've created a dynamic and engaging platform to showcase my professional background, skills, projects, and aspirations. This repository contains the source code for my resume website, which you can use as inspiration for creating your online portfolio.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+</br>
+  
+</div>
 
 
 ### Built With
 
-This section listed major foundation used to create my project. Here are my three musketeers:
+This section listed the major foundations used to create my project. Here are my three musketeers:
 
 <br/>
 
-* HyperText Markup Language ![image](https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/e204885b-99e1-4417-b663-cc0a6139141f)
+<img src="https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/2c9f63ac-8e5b-4baf-8b7e-3f7baaa20176" height="100" width="100">
   
-* Cascading Style Sheet ![image](https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/e9ca8a6c-a247-4455-aea0-e19080e00031)
+![image](https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/544d4b5c-7062-415c-b7cd-2957a041d062)
 
-* JavaScript ![image](https://github.com/JorellAndrei/Resume---SA_1/assets/110623787/09096f03-8ecc-452e-9146-53ec72c54ad6)
+![image](https://github.com/JorellAndrei/FINEZ_RESUME-AWD-FEUTECH/assets/110623787/fe5074b2-5ab3-4bf8-8dc3-0ea2b80676eb)
+
 
 
 ## FEATURES
